@@ -1,0 +1,38 @@
+LEXEME              	TOKEN TYPE          
+----------------------------------------
+include              Identifier          
+<                    Special Symbol      
+stdio                Identifier          
+.                    Special Symbol      
+h                    Identifier          
+>                    Special Symbol      
+int                  Keyword             
+main                 Keyword             
+(                    Special Symbol      
+)                    Special Symbol      
+{                    Special Symbol      
+int                  Keyword             
+sum                  Identifier          
+=                    Operator            
+3                    Integer Constant    
++                    Operator            
+2                    Integer Constant    
+;                    Special Symbol      
+float                Keyword             
+x                    Identifier          
+=                    Operator            
+3.14                 Floating Constant   
+;                    Special Symbol      
+char                 Keyword             
+ch                   Identifier          
+=                    Operator            
+A                    Character Constant  
+;                    Special Symbol      
+printf               Identifier          
+(                    Special Symbol      
+Result = %d          String Constant     
+,                    Special Symbol      
+sum                  Identifier          
+)                    Special Symbol      
+;                    Special Symbol      
+}                    Special Symbol      
